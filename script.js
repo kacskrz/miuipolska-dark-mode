@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Forum MIUIPolska.pl - czarny tryb
 // @namespace    https://github.com/kacskrz/miuipolska-dark-mode
-// @version      1.0
+// @version      1.0.1
 // @description  Czarny motyw dla forum MIUIPolska.pl
 // @author       Orjon (kacskrz@gmail.com)
 // @match        *://miuipolska.pl/forum/*
@@ -39,3 +39,4 @@ GM_addStyle('.ipsNavBar_secondary > li > a:hover { color: rgba(128, 136, 142, 0.
 GM_addStyle('.ipsBreadcrumb > ul > li { color: #e8dcdc;');
 GM_addStyle('.ipsSpoiler, .ipsStyle_spoiler { background: #504c4c;');
 GM_addStyle('.ipsQuote { background: #4a4747;');
+GM_addStyle('.cke_wysiwyg_frame, .cke_wysiwyg_div { background: #545050;');
