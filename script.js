@@ -65,3 +65,4 @@ GM_addStyle('.cPastLeaders_cell:after { color: #fff; opacity: 0.4;');
 GM_addStyle('.ipsDialog_title { color: #fff; background: #060606;');
 GM_addStyle('.ipsDialog_title ~ .ipsHr { margin: 1px 15px 0 15px;');
 GM_addStyle('body[data-role="internalEmbed"] { background: #251e1e;');
+GM_addStyle('.ipsComposeArea_dummy { background: #2e3033;')
